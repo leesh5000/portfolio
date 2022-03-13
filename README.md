@@ -10,4 +10,4 @@
 
 ## [boiler-plate](https://github.com/leesh5000/boiler-plate)
 
-## [hello-rest](
+## [hello-rest](https://github.com/leesh5000/hello-rest)
