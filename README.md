@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-- [boiler-plate](boiler-plate)
+- [boiler-plate](#boiler-plate)
 - [REST API]
 - [TODO APP]
 - [DEV BLOG]
