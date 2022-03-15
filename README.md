@@ -19,4 +19,10 @@ boiler-plate 는 대부분의 웹 어플리케이션의 기본 기능인 회원�
 
 ## [hello-rest](https://github.com/leesh5000/hello-rest)
 
+`spring hateoas` `spring rest docs`
+
 hello-rest 프로젝트는 진짜 rest 아키텍처를 설계하고 구현해보고자 하는 목적으로 만들었습니다. 여기서 "진짜 rest 아키텍처"란, 로이 필딩이 정의한 rest 아키텍처 가이드 원칙에 따르는 rest api를 말합니다. 대부분의 rest api들이 사실 진정한 rest api 설계 원칙을 지키지 않았습니다. 그 중에서도 특히, self-descriptive와 hateoas가 많이 지켜지지 않는데, 본 프로젝트에서는 api의 응답에 메세지를 해석하 수 있는 문서 링크 정보를 넣음으로써 self-descriptive를 만족시켰고, api 응답에 애플리케이션 상태 전이가 가능한 하이퍼 링크를 추가함으로써 hateoas를 만족시켰습니다.
+
+### PS
+
+추가적으로 본 프로젝트에서느 spring rest docs를 사용하여 테스트 통과 후, api 문서 자동화 기능도 구현하였습니다.
