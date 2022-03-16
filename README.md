@@ -1,7 +1,7 @@
 # portfolio
 이 페이지는 저의 이력서와 제가 진행한 프로젝트들을 소개하는 페이지입니다.
 
-이력서 링크 : [https://www.notion.so/Resume-14d30e17845e4822a3db2bb2efa5f46b](https://www.notion.so/Resume-14d30e17845e4822a3db2bb2efa5f46b)
+**이력서 링크** : [https://www.notion.so/Resume-14d30e17845e4822a3db2bb2efa5f46b](https://www.notion.so/Resume-14d30e17845e4822a3db2bb2efa5f46b)
 
 
 ## Table of Contents
