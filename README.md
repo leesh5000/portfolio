@@ -4,7 +4,6 @@
 ## Table of Contents
 - [boiler-plate](#boiler-plate)
 - [hello-rest](#hello-rest)
-- [Tech-Interview](#Tech-Interview)
 
 ## [boiler-plate](https://github.com/leesh5000/boiler-plate)
 
@@ -26,7 +25,3 @@ hello-rest 프로젝트는 진짜 rest 아키텍처를 설계하고 구현해보
 ### PS
 
 추가적으로 본 프로젝트에서는 tdd를 기반으로 진행되었으며, spring rest docs를 사용하여 테스트 통과 후 api 문서 자동화 기능도 구현하였습니다.
-
-## [Tech-Interview](https://github.com/leesh5000/Tech-Interview)
-
-`computer science`
